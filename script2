@@ -1,0 +1,30 @@
+torus
+0 0 0 10 50
+ident
+rotate
+x 30
+move
+250 230 0
+apply
+ident
+sphere
+-250 400 0 500
+sphere
+850 450 0 600
+sphere
+215 230 0 7.5
+sphere
+235 230 0 13
+sphere
+255 230 0 15
+sphere
+278 230 0 10
+sphere
+240 90 0 10
+sphere
+230 60 0 10
+sphere
+220 30 0 10
+display
+save
+dg.ppm
